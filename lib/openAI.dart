@@ -1,0 +1,1 @@
+const openAIAPIKey = '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';
